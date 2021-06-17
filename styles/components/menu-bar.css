@@ -1,0 +1,24 @@
+.menu-bar {
+    margin: 0 auto;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  
+}
+.menu-bar__time {
+    font-size:15px;
+    font-weight: 700;
+    line-height: 20px;
+}
+.staus-bar__icons img:not(:last-child) {
+    margin-right: 5px;
+}
+.logo {
+    display:flex;
+      
+}
+.logo img {
+    margin-right: 19px;
+}

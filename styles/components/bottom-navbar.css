@@ -1,0 +1,27 @@
+.bottom-navbar {
+    display:flex;
+    align-items:center;
+    justify-content:space-between; 
+    margin: 0 auto;
+}
+.bottom-navbar__background {
+    background-color:#fff;
+    padding-top: 10px;
+    padding-bottom:  10px;
+     
+}
+.bottom-navbar__text {
+color: #737373;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 17px;
+letter-spacing: 0px;
+text-align: center;
+margin-top:8px;
+
+}
+.bottom-navbar__icon {
+    text-align: center;
+}
